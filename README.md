@@ -30,7 +30,7 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=plastic&logo=Jira&logoColor=white&color=4AB197)
 
 ## :building_construction: Learning
-![](https://img.shields.io/badge/Language-GoLang-informational?style=plastic&logo=Go&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Language-Go-informational?style=plastic&logo=Go&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-Javascript-informational?style=plastic&logo=javascript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Language-Python-informational?style=plastic&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=plastic&logo=React&logoColor=white&color=4AB197)
